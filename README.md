@@ -1,0 +1,2 @@
+# ImagePreprocesingANDImageRecognition
+画像処理とパターン認識入門
